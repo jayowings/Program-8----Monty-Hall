@@ -1,3 +1,5 @@
+//66 % win on switch. I've heard of the Monty Hall thing before
+
 #include <iostream>
 #include <cstdlib>
 using namespace std;
